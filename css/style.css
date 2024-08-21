@@ -1,0 +1,10 @@
+
+.content-img{
+    position: relative;
+
+}
+.content{
+    position: absolute;
+    top: 90%;
+    left: 50%;
+}
