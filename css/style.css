@@ -1,4 +1,4 @@
-
+/* 
 .content-img{
     position: relative;
 
@@ -8,3 +8,180 @@
     top: 90%;
     left: 50%;
 }
+
+  */
+
+
+   /* .b {
+            background-image: linear-gradient(rgba(0, 0, 0, 0.137), rgba(0, 0, 0, 0.205)), url("image/bwl.webp");
+            height: 100%;
+            width: 100%;
+            background-size: cover;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border-radius: 20px;
+        }
+
+        .c {
+            background-image: linear-gradient(rgba(0, 0, 0, 0.137), rgba(0, 0, 0, 0.205)), url("image/2.jpg");
+            height: 100%;
+            width: 100%;
+            background-size: cover;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border-radius: 20px;
+        }
+
+        .d {
+            background-image: linear-gradient(rgba(0, 0, 0, 0.137), rgba(0, 0, 0, 0.205)), url("image/spn.webp");
+            height: 100%;
+            width: 100%;
+            background-size: cover;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border-radius: 20px;
+        }
+
+        .banner2 {
+            background-image: url("image/img-8.webp");
+            height: 60vh;
+            background-size: cover;
+            display: flex;
+            background-position: center;
+            justify-content: center;
+            align-items: end;
+            text-align: center;
+        } */
+
+
+
+
+
+
+
+
+/* THis is for banner */
+  .bg {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.295), rgba(0, 0, 0, 0.253)), url(image/banner.jpg);
+    height: 50vh;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: white;
+}
+
+.hover_button>button {
+    border: none;
+    background-color: #417505;
+    padding: 10px 35px 10px 35px;
+    border-radius: 25px;
+    color: white;
+    font-weight: bold;
+    letter-spacing: 2px;
+    transition: 0.4s;
+}
+
+.box_button>button {
+    border: none;
+    background-color: #ffffff;
+    padding: 10px 35px 10px 35px;
+    border-radius: 25px;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    letter-spacing: 2px;
+    transition: 0.4s;
+}
+
+.box_button>button:hover {
+    border: none;
+    background-color: #00968f;
+    padding: 10px 35px 10px 35px;
+    border-radius: 25px;
+    color: white;
+    font-weight: bold;
+    letter-spacing: 2px;
+    transition: 0.4s;
+}
+
+.hover_button>button:hover {
+
+    background-color: #05850c;
+
+
+}
+
+
+
+.read-btn button {
+    border: none;
+    padding: 10px 25px;
+    border-radius: 20px;
+    background-color: #417505;
+    color: whitesmoke;
+
+}
+
+.read-btn button:hover {
+    background-color: #82b672;
+
+}
+
+/* This is for card  */
+.section {}
+
+.card-f {
+    height: auto;
+    width: 100%;
+    border: 1px solid #82b672;
+    padding: 30px;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2), 0 6px 20px rgba(0, 0, 0, 0.19);
+
+}
+.card-f h2 {
+    padding-bottom: 5px;
+}
+.card-f p{
+    padding-bottom: 5px;
+}
+
+
+/* This is for contact us form */
+.contact-form-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f8f9fa;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
