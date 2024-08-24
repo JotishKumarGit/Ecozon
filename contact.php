@@ -48,7 +48,8 @@
         <div class="container">
             <div class="row">
                 <div class="col-12 col-sm-12 col-md-12 col-lg-6 mb-4">
-                    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d448955.42701436405!2d77.0342912!3d28.4655616!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sin!4v1724398060790!5m2!1sen!2sin" width="100%" height="510px" style="border:1px solid #82b672; border-radius: 10px" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                    <!-- <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d448955.42701436405!2d77.0342912!3d28.4655616!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sin!4v1724398060790!5m2!1sen!2sin" width="100%" height="510px" style="border:1px solid #82b672; border-radius: 10px" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe> -->
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d31321.532418767154!2d76.97434309770908!3d11.09909711359254!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sAddress%3A%207%2F143%20Casa%20Diya%2C%20Kumari%20Nagar%2C%20Near%20Sai%20Baba%20Temple%20Road%2C%20Keeranatham%2C%20Coimbatore%2C%20Tamil%20Nadu%2064103!5e0!3m2!1sen!2sin!4v1724497950397!5m2!1sen!2sin" width="100%" height="510px" style="border:1px solid #82b672; border-radius: 10px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                 </div>
           
                     <div class="col-12 col-sm-12 col-md-12 col-lg-6">

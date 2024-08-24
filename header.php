@@ -102,9 +102,9 @@
         <div class="container p-3 text-capitalize">
             <div class="my_box">
                 <div class="logo">
-                    <a href="index.php" class="fs-4  text-decoration-none" style="color: #4d4d4d; padding-right: 20px ;">Ecozon</a>
+                    <a href="index.php" class=" text-success display-4 text-decoration-none" style=" padding-right: 20px ;"><b>Ecozon</b></a>
                 </div>
-                <ul class="ul">
+                <ul class="ul align-items-center">
                     <li><a href="index.php" style="color: black;">Home</a></li>
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle text-secondary" href="#" role="button"
@@ -134,7 +134,7 @@
     <!-- Mobile Navbar -->
     <nav class="navbar navbar-expand-lg d-lg-none">
         <div class="container">
-            <a class="navbar-brand" href="#">Ecozon</a>
+            <a class="navbar-brand text-success display-1" href="index.php">Ecozon</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
                 aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
@@ -143,15 +143,6 @@
                 <ul class="navbar-nav">
                     <li class="nav-item">
                         <a class="nav-link active" href="index.php">Home</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="catalog.php">Catalog</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="wholesale.php">Wholesale</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="contact.php">Contact</a>
                     </li>
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
@@ -167,10 +158,20 @@
                             <!-- <li><a class="dropdown-item" href="#">Something else here</a></li> -->
                         </ul>
                     </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="catalog.php">Catalog</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="wholesale.php">Wholesale</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="contact.php">Contact</a>
+                    </li>
+                   
                 </ul>
-                <form class="d-flex ms-auto">
+                <!-- <form class="d-flex ms-auto">
                     <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
-                </form>
+                </form>  -->
             </div>
         </div>
     </nav>
